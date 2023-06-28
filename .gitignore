@@ -1,0 +1,9 @@
+#
+# .gitignore
+#
+
+## GENERIC ##
+
+*~
+*.bak
+*.tmp
